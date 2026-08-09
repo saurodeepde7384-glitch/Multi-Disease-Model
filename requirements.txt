@@ -1,6 +1,6 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-joblib
+streamlit==1.58.0
+pandas==3.0.3
+numpy==2.4.4
+scikit-learn==1.8.0
+joblib==1.5.3
+openpyxl
