@@ -245,6 +245,9 @@ MULTI DISEASE MODEL/
 │
 ├── README.md
 │
+│
+├── requirements.txt
+│
 └── app.py
 ```
 
@@ -368,7 +371,7 @@ prediction and categorizes it into a risk level:
 Clone the repository:
 
 ``` bash
-git clone <your-repository-url>
+git clone https://github.com/saurodeepde7384-glitch/Multi-Disease-Model.git
 ```
 
 Navigate into the project:
@@ -392,7 +395,7 @@ venv\Scripts\activate
 Install the required dependencies:
 
 ``` bash
-pip install pandas numpy scikit-learn joblib streamlit openpyxl
+pip install -r requirements.txt
 ```
 
 ## Running the Application
