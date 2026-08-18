@@ -19,7 +19,7 @@ Streamlit-based prediction interface.
 
 ## Project Overview
 
-The Multi Disease Prediction System uses supervised machine learning
+The Multi-Disease Prediction System uses supervised machine learning
 models to analyze patient-related clinical and lifestyle information and
 generate a binary prediction along with a model probability.
 
